@@ -1,8 +1,8 @@
-def subtraction(x,y):
-    sub=x-y
-    return sub
+def division(x,y):
+    div=x/y
+    return div
 
 a=float(input("Please enter 1st number: "))
 b=float(input("Please enter 2nd number: "))
 
-print("Subtraction is: ",subtraction(a,b))
+print("Division is: ",division(a,b))
